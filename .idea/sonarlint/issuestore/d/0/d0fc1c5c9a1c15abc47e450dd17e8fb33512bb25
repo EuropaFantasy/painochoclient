@@ -1,0 +1,8 @@
+
+B	cpp:S5421"!Global variables should be const.(›ΡΌΎωÿÿÿÿ8οχω΅1
+D	cpp:S5421
+"/Global pointers should be const at every level.(·φÒƒ
+P	cpp:S5416";"using" should be preferred to "typedef" for type aliasing.(φ›Τ€
+D	cpp:S5421"/Global pointers should be const at every level.(ύοÿΒ
+]	cpp:S6004""AUse the init-statement to declare "init" inside the if statement.(¤“τύ8‘οχω΅1
+Kcpp:S833"7Add the "static" storage specifier to this declaration.(±ΰ¨²
